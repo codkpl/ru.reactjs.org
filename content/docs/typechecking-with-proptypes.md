@@ -222,7 +222,7 @@ export default function HelloWorldComponent({ name }) {
 ```javascript
 function HelloWorldComponent({ name }) {
   return (
-    <div>Hello, {name}</div>
+    <div>Hello, {name}</div>нрррррррррррррррреурееуреруереуреуреуруе
   )
 }
 
